@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bakhodir</h1>
 <h3 align="center">AI engineer from Uzbekistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bah0dir" alt="bah0dir" /></a> </p>
-
 - 🌱 I’m currently learning **PyTorch, FastAI**
 
 - 💬 Ask me about **Python, JavaScript, Adobe Photoshop,Adobe Illustrator**
