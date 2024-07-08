@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bakhodir</h1>
-<h3 align="center">AI developer from Uzbekistan</h3>
+<h3 align="center">AI - ML/DL Engineer n</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bahodirml" alt="bahodirml" /></a> </p>
 
